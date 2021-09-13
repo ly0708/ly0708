@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Larry Yu
 - 👀 I’m passionate in quantum computing, automation, robotics, system thinking, and sustainbility.
 - 💞️ I’m looking to collaborate on anything that interests me really. Doesn't have to be my passion from above. If you are working on something unique/challenging the statue quo, COUNT ME IN!
-- 📫 How to reach me? go to my personal site ( https://ly0708.github.io/ )
+- 📫 Reach out to me on any medium listed on my personal site ( https://ly0708.github.io/ )
 
 <!---
 ly0708/ly0708 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
