@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Larry Yu
 - 👀 I’m passionate in quantum computing, automation, robotics, system thinking, and sustainbility.
-- 💞️ I’m looking to collaborate on anything that interests me really. Doesn't have to be my passion from above. Anything if it sounds interesting I will work on it.
+- 💞️ I’m looking to collaborate on anything that interests me really. Doesn't have to be my passion from above. If you are working on something unique/challenging the statue quo, COUNT ME IN!
 - 📫 How to reach me? go to my personal site ( https://ly0708.github.io/ )
 
 <!---
