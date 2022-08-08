@@ -1,7 +1,4 @@
-- 👋 Hello 
-- 💞️ If you are working on something unique/challenging the statue quo, COUNT ME IN!
-- 📫 Reach out to me via any medium on my website
-  - Website: https://ly0708.github.io/
+- 👋 Hello
 
 
 <br>
